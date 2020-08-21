@@ -1,5 +1,5 @@
 # nus-devops
-Day 3 Devops CI/CD Assignment
+Day 3 Devops CI/CD Assignment (Jenkins update)
 
 Demo is shown using Jenkins on the repo, but CI can also be run on Git Actions.
 
