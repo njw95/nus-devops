@@ -7,4 +7,4 @@ When there is a new commit that is pushed to the repo, Git will inform Jenkins o
 
 
 #Remarks/Extra
-I have tested on another repo that consist of a Java Project (https://github.com/njw95/main)
+I have tested on another repo that consist of a Java Project (https://github.com/njw95/main) and was able to get Jenkins to work with it (Excluding running tests and deploying the jar file)
